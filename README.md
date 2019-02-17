@@ -1,8 +1,8 @@
 # Algorithms
 This repository contains basic algorithms in C++.Feel free to comment. Edits are welcome
-###############################################################
+
 Below is code for the Knapsack problem using the greedy method
-###############################################################
+
 
                                           <- Knapsack Problem ->
 
